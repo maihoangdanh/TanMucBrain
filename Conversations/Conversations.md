@@ -3,7 +3,7 @@
 Lưu lại các cuộc hội thoại quan trọng — theo từng người, từng nhóm.
 
 ## Cá nhân
-- [[Conversations/Individuals/Hermes Agent|🤖 Hermes Agent]]
+- [[Conversations/Individuals/Mai Danh|👤 Mai Danh]]
 <!-- Thêm người vào đây: - [[...]] -->
 
 ## Nhóm

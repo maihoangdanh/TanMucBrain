@@ -1,6 +1,6 @@
 # 💬 {{title}}
 
-> **Contact:** <!-- Thông tin liên hệ -->
+> **Contact:** 
 
 ---
 

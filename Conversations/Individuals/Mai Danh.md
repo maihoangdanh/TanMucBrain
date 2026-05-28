@@ -1,6 +1,6 @@
-# 🤖 Hermes Agent
+# 👤 Mai Danh
 
-> **Contact:** Telegram DM (@maihoangdanh)
+> **Contact:** Telegram (@maihoangdanh)
 > **Vault:** Tan Mực Brain
 
 ---
@@ -61,6 +61,6 @@
 **Chủ đề:** Conversations + second brain workflow
 
 **Nội dung đang diễn ra:**
-- User phát hiện tao chưa ghi cuộc hội thoại hiện tại vào file Conversations
-- Tao đang bổ sung real-time
+- Mai Danh phát hiện tao chưa ghi cuộc hội thoại hiện tại vào file Conversations
+- Tao đã rename file từ `Hermes Agent.md` → `Mai Danh.md` theo đúng rule: file đặt theo tên người tham gia, không phải tên Hermes
 - Luồng: xảy ra chuyện gì → ghi vào Conversations → commit + push → sync về máy
