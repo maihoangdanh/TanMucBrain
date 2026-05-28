@@ -4,9 +4,11 @@ Lưu lại các cuộc hội thoại quan trọng — theo từng người, từ
 
 ## Cá nhân
 - [[Conversations/Individuals/Mai Danh|👤 Mai Danh]]
+- [[Conversations/Individuals/Christine Ngoc Dam|👤 Christine Ngoc Dam (Judy)]]
 <!-- Thêm người vào đây: - [[...]] -->
 
 ## Nhóm
+- [[Conversations/Groups/Lộn xộn|👥 Lộn xộn]]
 <!-- Thêm nhóm vào đây: - [[...]] -->
 
 ---

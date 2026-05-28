@@ -58,7 +58,7 @@
 
 ## 2026-05-28 — Đang trò chuyện (real-time)
 
-**Chủ đề:** Conversations + second brain workflow
+**Chủ đề:** Conversations + second brain workflow + hội thoại group
 
 **Nội dung đang diễn ra:**
 - Mai Danh phát hiện tao chưa ghi cuộc hội thoại hiện tại vào file Conversations
@@ -67,6 +67,17 @@
 - Sau khi reply → cập nhật file + commit + push
 - Luồng: xảy ra chuyện gì → ghi vào Conversations → commit + push → sync về máy
 
+**2026-05-28 20:00 UTC+7:** Tạo file Christine Ngoc Dam.md, tạo thư mục Groups/Lộn xộn.md
+- Ghi lại toàn bộ lịch sử hội thoại từ 22/5 → 28/5 trong group "Lộn xộn"
+- Mai Danh & Christine Ngoc Dam (Judy) đã hỏi nhiều thứ: marketing nha khoa, sức khoẻ, matcha
+- Tao xác nhận group chat_id -5276641968
+- Bot @MucThienTonBot trả lời khi được tag
+
+**2026-05-28 19:30 UTC+7:**
+- Mai Danh: "ok chưa hỉ" → tao kiểm tra thấy lỗi provider auth failed
+- Mai Danh: "ok làm đi xong thì báo tao" → tao làm các file hội thoại
+
 **Kết luận:**
 - File hội thoại là nguồn context dài hạn cho Hermes
 - Workflow: đọc → trả lời → ghi → push
+- Hội thoại trong group: ghi vào cả file cá nhân + file group
