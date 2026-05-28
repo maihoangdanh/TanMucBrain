@@ -63,4 +63,10 @@
 **Nội dung đang diễn ra:**
 - Mai Danh phát hiện tao chưa ghi cuộc hội thoại hiện tại vào file Conversations
 - Tao đã rename file từ `Hermes Agent.md` → `Mai Danh.md` theo đúng rule: file đặt theo tên người tham gia, không phải tên Hermes
+- Thống nhất rule: trước khi trả lời ai → đọc file hội thoại của họ trước để hiểu context
+- Sau khi reply → cập nhật file + commit + push
 - Luồng: xảy ra chuyện gì → ghi vào Conversations → commit + push → sync về máy
+
+**Kết luận:**
+- File hội thoại là nguồn context dài hạn cho Hermes
+- Workflow: đọc → trả lời → ghi → push
