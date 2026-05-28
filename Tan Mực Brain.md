@@ -13,6 +13,7 @@ Chào mừng tới bộ não thứ hai của **Mai Danh**.
 - [[02 - Areas|📌 Areas]] — Lĩnh vực quan tâm dài hạn
 - [[03 - Resources|📚 Resources]] — Tài liệu tham khảo, research
 - [[04 - Archives|🗄 Archives]] — Dự án/Kiến thức cũ
+- [[Conversations/Conversations|💬 Conversations]] — Hội thoại với mọi người
 - [[Inbox|📥 Inbox]] — Ghi chép nhanh, chưa phân loại
 - [[Daily|📅 Daily Notes]]
 
