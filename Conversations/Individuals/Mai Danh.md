@@ -81,3 +81,19 @@
 - File hội thoại là nguồn context dài hạn cho Hermes
 - Workflow: đọc → trả lời → ghi → push
 - Hội thoại trong group: ghi vào cả file cá nhân + file group
+
+---
+
+## 2026-06-01 — Shop reports bị thiếu
+
+**Chủ đề:** Hermes chưa tự động ghi nhận shop reports từ Lăng Tiêu Bot
+
+**Nội dung chính:**
+- Mai Danh gửi 2 ảnh chụp data từ Lăng Tiêu Bot (31/05 & 01/06)
+- Tao mới chỉ lưu được 1 report (28/05) trước đây, thiếu data các ngày khác
+- Data 31/05: TikTok/Live snapshot + SYNC ORDERS
+- Mai Danh nhắc: Lăng Tiêu Bot gửi data hằng ngày, cần tự động ghi nhận
+
+**Kết luận:**
+- Đã lưu report 31/05 vào vault
+- Cần check lại workflow: khi user forward data từ Lăng Tiêu Bot —> tự động parse + save
