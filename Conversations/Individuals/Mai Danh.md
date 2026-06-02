@@ -97,3 +97,11 @@
 **Kết luận:**
 - Đã lưu report 31/05 vào vault
 - Cần check lại workflow: khi user forward data từ Lăng Tiêu Bot —> tự động parse + save
+
+---
+
+## 02-06-2026 — Cập nhật SYNC ORDERS 01/06
+
+**Nội dung chính:**
+- Mai Danh forward SYNC ORDERS 01/06: 1088 đơn, GMV 166.9M, huỷ 137 (12.6%)
+- Đã lưu report + update daily note + git push
