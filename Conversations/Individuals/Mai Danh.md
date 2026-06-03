@@ -100,8 +100,17 @@
 
 ---
 
-## 02-06-2026 — Cập nhật SYNC ORDERS 01/06
+|## 02-06-2026 — Cập nhật SYNC ORDERS 01/06
 
 **Nội dung chính:**
 - Mai Danh forward SYNC ORDERS 01/06: 1088 đơn, GMV 166.9M, huỷ 137 (12.6%)
 - Đã lưu report + update daily note + git push
+
+|---
+
+## 03-06-2026 — SYNC ORDERS 02/06 + setup cron job
+
+**Nội dung chính:**
+- Mai Danh forward SYNC ORDERS 02/06 (data date 02/06, received 03/06 06:26)
+- Data: 1056 đơn, GMV 153.5M, hoàn thành 15, đang xử lý 874, huỷ 167 (15.8%)
+- Đã lưu report 2026-06-02, update daily 2026-06-03, git push
